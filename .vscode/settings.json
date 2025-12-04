@@ -1,0 +1,8 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": [],
+    "python.defaultInterpreterPath": "C:\\Users\\akhat\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+    "python.analysis.extraPaths": [
+        "C:\\Users\\akhat\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages"
+    ]
+}
